@@ -513,4 +513,4 @@ Tree.flattenArray=function(input){
 	return retArray;
 }
 
-exports = Tree;
+module.exports = Tree;
