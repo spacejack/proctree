@@ -1,0 +1,22 @@
+{
+  "name": "proctree",
+  "version": "1.0.0",
+  "description": "proctree.js packaged as a node.js module + typescript definitions",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spacejack/proctree.git"
+  },
+  "author": "spacejack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spacejack/proctree/issues"
+  },
+  "homepage": "https://github.com/spacejack/proctree#readme",
+  "devDependencies": {
+    "typescript": "^2.1.4"
+  }
+}
